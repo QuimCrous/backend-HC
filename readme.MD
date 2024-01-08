@@ -4,3 +4,5 @@ Here I will write what I achieve every time i update the project to github repos
 
 ## Route Map
 
+08/01/2024 
+    Created entities for the different kinds of hotel's rooms
